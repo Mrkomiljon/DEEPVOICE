@@ -5,3 +5,4 @@ This release contains a demonstration video of DeepVoiceGuard, an AI-powered mod
 🔹 Pretrained model and dataset will be released soon. We are currently finalizing optimizations to ensure the best performance and ease of deployment. Stay tuned for updates!
 
 📌 Watch the video in [here](https://github.com/Mrkomiljon/DEEPVOICE/releases/download/v1.0.0-demo/250227.mp4) to see the detection process in action! 🚀
+![image](https://github.com/user-attachments/assets/24896374-4a00-4e1f-aa18-5bc43cabb0af)
